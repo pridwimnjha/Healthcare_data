@@ -1,6 +1,6 @@
-About this Dataset
+About this Dataset[NTR Arogya Seva 2017]
 
-
+ntrarogyaseva.csv
 This dataset contains around 480,000 records of patients data from the NTR Vaidya Seva scheme of the Government of Andhra Pradesh, India. NTR Vaidya Seva is the flagship healthcare scheme of the government in which lower-middle class and low-income citizens of the state of Andhra Pradesh can obtain free healthcare for many major diseases and ailments. A similar program exists in the neighboring state of Telangana as well.
 
 
